@@ -8,4 +8,6 @@ doc comments.
 ## Reference
 
 - See
-  [Haddock Chapter 3: Documentation and Markup](https://www.haskell.org/haddock/doc/html/markup.html)
+  [Haddock docs on ReadTheDocs](https://haskell-haddock.readthedocs.io/en/latest/markup.html)
+- See
+  [Haddock docs on haskell.org](https://www.haskell.org/haddock/doc/html/markup.html)
